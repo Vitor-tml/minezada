@@ -11,28 +11,45 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1745084286042
+  lastteleport: 1745095190666
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1745084827656
-  login: 1745084275473
+  logout: 1745095235723
+  login: 1745095231520
 money: '0'
 last-account-name: Capipipipi
 lastlocation:
   world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
   world-name: world
-  x: 820.9344319719904
-  y: 72.0
-  z: 186.14996948302405
-  yaw: 171.06346130371094
-  pitch: 21.837207794189453
+  x: -3582.404397760908
+  y: 82.0625
+  z: 257.0501667553353
+  yaw: -102.971435546875
+  pitch: 8.985238075256348
 logoutlocation:
   world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
   world-name: world
-  x: 810.6502465170169
-  y: 80.0
-  z: 183.00318070515968
-  yaw: 0.0
-  pitch: 0.0
+  x: 758.8869461893138
+  y: 3.0
+  z: 224.32601429946203
+  yaw: -102.89818572998047
+  pitch: 5.443112850189209
+homes:
+  home:
+    world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+    world-name: world
+    x: 755.4311468977646
+    y: 4.0
+    z: 229.35418192492037
+    yaw: -148.19467163085938
+    pitch: 23.84254264831543
+  vila:
+    world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+    world-name: world
+    x: 1347.5627400769567
+    y: 49.0
+    z: 309.08598236882466
+    yaw: 177.62457275390625
+    pitch: 5.419957160949707

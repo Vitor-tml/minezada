@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.219.189.59
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745095207928
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745095421024
+  login: 1745091666320
+money: '0'
+last-account-name: mooglebankai
+lastlocation:
+  world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+  world-name: world
+  x: -3577.5315472749553
+  y: 63.0
+  z: 275.8463538023288
+  yaw: 7.43031644821167
+  pitch: 2.8911330699920654
+logoutlocation:
+  world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+  world-name: world
+  x: 699.3751325626545
+  y: 17.5625
+  z: 170.8636765525385
+  yaw: -128.42352294921875
+  pitch: 27.599903106689453
+homes:
+  home:
+    world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+    world-name: world
+    x: 690.9926762079613
+    y: 17.0
+    z: 166.37835834522016
+    yaw: 90.87625122070312
+    pitch: 46.499942779541016
