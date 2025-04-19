@@ -69,7 +69,7 @@ checks:
       active: true
       actions: cancel vl>10 log:bdirection:0:3:if cancel
     fastbreak:
-      active: true
+      active: false
       strict: true
       delay: 100
       intervalsurvival: 100
@@ -357,8 +357,8 @@ checks:
       active: true
       actions: log:instanteat:2:5:if cancel
     fastconsume:
-      active: true
-      duration: 0.7
+      active: false
+      duration: 1
       whitelist: false
       items: []
       actions: log:fastconsume:2:5:if cancel
