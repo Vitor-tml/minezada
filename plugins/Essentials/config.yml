@@ -562,7 +562,7 @@ allow-silent-join-quit: false
 # {ONLINE} - The number of players online.
 # {UNIQUE} - The number of unique players to join the server.
 # {UPTIME} - The amount of time the server has been online.
-custom-join-message: "none"
+custom-join-message: '&eBem-vindo ao servidor da &bAzure! &7Esperamos que você se divirta! &7&nO spawn deste mundo é nesta ilha, &7esperamos construir uma vila bem aqui. &7Então, sinta-se à vontade para construir sua casa! &7Mas lembre-se: o espaço da ilha é limitado, então não tente compensar as coisas construindo casas muito grandes! &e😉'
 custom-quit-message: "none"
 
 # You can set a custom join message for users who join with a new username here.
@@ -1202,7 +1202,7 @@ newbies:
   # If so, use this format, replacing {DISPLAYNAME} with the player name.
   # If not, set to ''
   #announce-format: ''
-  announce-format: '&dWelcome {DISPLAYNAME}&d to the server!'
+  announce-format: '&eBem-vindo ao servidor da &bAzure! &7Esperamos que você se divirta! &7&nO spawn deste mundo é nesta ilha, &7esperamos construir uma vila bem aqui. &7Então, sinta-se à vontade para construir sua casa! &7Mas lembre-se: o espaço da ilha é limitado, então não tente compensar as coisas construindo casas muito grandes! &e😉'
 
   # When we spawn for the first time, which spawnpoint do we use?
   # Set to "none" if you want to use the spawn point of the world.
