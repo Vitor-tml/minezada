@@ -1,0 +1,88 @@
+#
+# Website: https://www.spigotmc.org/resources/antimalware.109025/
+# Discord: https://discord.gg/FJuKAUDX4C
+# Sourcecode: https://github.com/alphaalek/AntiMalware
+#
+
+# |---------------------------------------------|
+# | ########################################### |
+# |              GENERAL SETTINGS               |
+# | ########################################### |
+# |---------------------------------------------|
+
+# OBS: if you change this, it requires reload by /am reload
+# syntax: language
+locale: "en"
+
+# |---------------------------------------------|
+# | ########################################### |
+# |             BACKDOOR SECURITY               |
+# | ########################################### |
+# |---------------------------------------------|
+
+# Should security mode be enabled. You can see the features below that security mode offers.
+#
+# OBS: if you change this, it requires reload by /am reload
+# syntax: true / false
+security-mode-enabled: false
+
+# Should cancelled chat events that contains vulnerable things as
+# op and deop of players or commands executed by console, be blocked from being called.
+# This is because backdoors typically uses chat events to do it's things.
+#
+# OBS: if you change this, it requires restart of the server
+# syntax: true / false
+prevent-cancelled-malicious-chat-event: false
+
+# |---------------------------------------------|
+# | ########################################### |
+# |                OP PROXY                     |
+# | ########################################### |
+# |---------------------------------------------|
+
+# Should OP proxy blocker be enabled on the server. This means, that you can
+# choose specific players who can only be OP on the server, and everyone else
+# will be blocked. Write the allowed players/uuids below.
+# OBS: If you are on the list below, it doesn't giv you OP. It just means that you CAN get it.
+#
+# OBS: if you change this, it requires restart of the server
+# syntax: true / false
+op-proxy-blocker: false
+
+# Should the pluyin throw an exception when a player who doesn't have permission
+# in the OP proxy blocker, tries to get OP on the server. This is to ensure that players NEVER get op at all.
+# OBS: If you enable this, it means that a exception will be thrown in console. This is not an error.
+#
+# OBS: if you change this, it requires reload by /am reload
+# syntax: true / false
+throw-exception-on-op: false
+
+# Which players should be allowed the get OP, if the OP proxy blocker is enabled.
+#
+# OBS: if you change this, it requires reload by /am reload
+# syntax: string list
+target:
+  - "Alek05"
+
+# |---------------------------------------------|
+# | ########################################### |
+# |                 NETWORK                    |
+# | ########################################### |
+# |---------------------------------------------|
+
+# What network addresses should connections within the server, be interrupted and blocked.
+# Multiple backdoors uses some kind of Restful API or WebSocket to establish a connection to
+# the internet and do things. Blocking these connections will prevent some backdoors to execute.
+#
+# OBS: if you change this, it requires reload by /am reload
+# syntax: string list
+blocked-target:
+  - "85.217.144.130"
+  - "bodyalhoha.com"
+  - "client.hostflow.eu"
+  - "skyrage.de"
+  - "files.skyrage.de"
+  - "t23e7v6uz8idz87ehugwq.skyrage.de"
+  - "qw3e1ee12e9hzheu9h1912hew1sh12uw9.skyrage.de"
+
+

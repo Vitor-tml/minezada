@@ -1,0 +1,232 @@
+[14:05:27] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-124.04.1; Ubuntu null) on Linux 5.15.167.4-microsoft-standard-WSL2 (amd64)
+[14:05:27] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-22-main@6c2b037 (2025-04-16T18:32:47Z) for Minecraft 1.21.5
+[14:05:28] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[14:05:28] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[14:05:28] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - LuckPerms (5.4.158), NoCheatPlus (3.16.0-RC-sMD5NET-b1134), ServerSecurity (2.1.1)
+[14:05:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:05:36] [ServerMain/INFO]: Loaded 1373 recipes
+[14:05:36] [ServerMain/INFO]: Loaded 1484 advancements
+[14:05:36] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[14:05:36] [Server thread/INFO]: Loading properties
+[14:05:36] [Server thread/INFO]: This server is running Paper version 1.21.5-22-main@6c2b037 (2025-04-16T18:32:47Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[14:05:37] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:05:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:05:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:05:37] [Server thread/INFO]: [MoonriseCommon] Paper is using 4 worker threads, 1 I/O threads
+[14:05:37] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[14:05:38] [Server thread/INFO]: Default game type: SURVIVAL
+[14:05:38] [Server thread/INFO]: Generating keypair
+[14:05:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:05:38] [Server thread/INFO]: Using epoll channel type
+[14:05:38] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:05:38] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[14:05:38] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[14:05:53] [Server thread/WARN]: Legacy plugin ServerSecurity v2.1.1 does not specify an api-version.
+[14:05:53] [Server thread/WARN]: Legacy plugin NoCheatPlus v3.16.0-RC-sMD5NET-b1134 does not specify an api-version.
+[14:05:53] [Server thread/INFO]: [ServerSecurity] Loading server plugin ServerSecurity v2.1.1
+[14:05:53] [Server thread/INFO]: [NoCheatPlus] Loading server plugin NoCheatPlus v3.16.0-RC-sMD5NET-b1134
+[14:05:53] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[14:05:54] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[14:05:54] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.21.5
+[14:05:54] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.158
+[14:05:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:05:54] [Server thread/INFO]: [ServerSecurity] Enabling ServerSecurity v2.1.1*
+[14:05:54] [Server thread/ERROR]: [ServerSecurity] §cThere encountered an error when activating the network interceptor.
+[14:05:54] [Server thread/INFO]: [ServerSecurity] ServerSecurity is now loaded in! The plugin is made by Alek05. Use /am.
+[14:05:54] [Server thread/WARN]: java.util.zip.ZipException: zip END header not found
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin.onEnable(ServerSecurityPlugin.java:96)
+[14:05:54] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:280)
+[14:05:54] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[14:05:54] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[14:05:54] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[14:05:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:644)
+[14:05:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:599)
+[14:05:54] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:236)
+[14:05:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1161)
+[14:05:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[14:05:54] [Server thread/WARN]: java.util.zip.ZipException: zip END header not found
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin.onEnable(ServerSecurityPlugin.java:96)
+[14:05:54] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:280)
+[14:05:54] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[14:05:54] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[14:05:54] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[14:05:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:644)
+[14:05:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:599)
+[14:05:54] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:236)
+[14:05:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1161)
+[14:05:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[14:05:54] [Server thread/WARN]: java.util.zip.ZipException: zip END header not found
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
+[14:05:54] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin.onEnable(ServerSecurityPlugin.java:96)
+[14:05:54] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:280)
+[14:05:54] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[14:05:54] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[14:05:54] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[14:05:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:644)
+[14:05:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:599)
+[14:05:54] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:236)
+[14:05:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1161)
+[14:05:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[14:05:54] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[14:05:55] [Server thread/INFO]: [scanning] Done scanning 2 files and found 0 with malware or backdoor.
+[14:05:55] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.158
+[14:05:55] [Server thread/INFO]:         __    
+[14:05:55] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.158
+[14:05:55] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[14:05:55] [Server thread/INFO]: 
+[14:05:55] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[14:05:55] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[14:05:55] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[14:05:56] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[14:05:56] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1002ms)
+[14:05:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:05:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:05:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:05:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:05:56] [Server thread/INFO]: Preparing level "world"
+[14:05:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:05:57] [Server thread/INFO]: Preparing spawn area: 0%
+[14:05:57] [Server thread/INFO]: Preparing spawn area: 2%
+[14:05:57] [Server thread/INFO]: Time elapsed: 971 ms
+[14:05:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:05:57] [Server thread/INFO]: Preparing spawn area: 0%
+[14:05:57] [Server thread/INFO]: Time elapsed: 59 ms
+[14:05:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:05:57] [Server thread/INFO]: Preparing spawn area: 0%
+[14:05:57] [Server thread/INFO]: Time elapsed: 72 ms
+[14:05:57] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.16.0-RC-sMD5NET-b1134*
+[14:05:58] [Server thread/WARN]: [NoCheatPlus] Running in Bukkit-API-only mode (1.21.5-22-6c2b037 (MC: 1.21.5)). If this is not intended, please check for updates and consider to request support.
+[14:05:58] [Server thread/WARN]: [NoCheatPlus]  Check for updates and support at BukkitDev: https://dev.bukkit.org/server-mods/nocheatplus/
+[14:05:58] [Server thread/WARN]: [NoCheatPlus]  Development builds (unsupported by the Bukkit Staff, use at your own risk): https://ci.md-5.net/job/NoCheatPlus/changes
+[14:05:58] [Server thread/WARN]: [NoCheatPlus] Bukkit-API-only mode: Some features will likely not function properly, performance might suffer.
+[14:05:58] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.4.6-1.11.2|? / Bukkit-API
+[14:05:58] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[14:05:58] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[14:05:58] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[14:05:58] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+[14:05:58] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.9 blocks.
+[14:05:58] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.10 blocks.
+[14:05:58] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.11 blocks.
+[14:05:58] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.12 blocks.
+[14:05:58] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[14:05:58] [Server thread/INFO]: [NoCheatPlus] Packet level access: ProtocolLib is not available.
+[14:05:58] [Server thread/INFO]: [NoCheatPlus] Force disable FastHeal on Minecraft 1.9 and later.
+[14:05:58] [Server thread/INFO]: [NoCheatPlus] Version 3.16.0-RC-sMD5NET-b1134 is enabled.
+[14:05:58] [Server thread/INFO]: [spark] Starting background profiler...
+[14:05:58] [Server thread/INFO]: Done preparing level "world" (2.606s)
+[14:05:58] [Server thread/INFO]: Running delayed init tasks
+[14:05:58] [Craft Scheduler Thread - 2 - NoCheatPlus/INFO]: [NoCheatPlus] Could not register an instance for: fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook
+[14:05:58] [Server thread/WARN]: [NoCheatPlus] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING (WHEAT) 
+* MISSING (SIGN / SOLID+GROUND) 
+* MISSING (WOOD_DOOR / SOLID+GROUND) 
+* MISSING (IRON_DOOR / SOLID+GROUND) 
+* MISSING (SUGAR_CANE) 
+* MISSING (CAKE / SOLID+GROUND) 
+* MISSING (BED / SOLID+GROUND) 
+* MISSING (DIODE) 
+* MISSING (NETHER_STALK) 
+* MISSING (BREWING_STAND_ITEM / SOLID+GROUND) 
+* MISSING (CAULDRON_ITEM / SOLID+GROUND) 
+* MISSING (FLOWER_POT_ITEM) 
+* MISSING (SKULL_ITEM) 
+* MISSING (REDSTONE_COMPARATOR) 
+* MISSING (BANNER / SOLID+GROUND) 
+* MISSING (SPRUCE_DOOR_ITEM / SOLID+GROUND) 
+* MISSING (BIRCH_DOOR_ITEM / SOLID+GROUND) 
+* MISSING (JUNGLE_DOOR_ITEM / SOLID+GROUND) 
+* MISSING (ACACIA_DOOR_ITEM / SOLID+GROUND) 
+* MISSING (DARK_OAK_DOOR_ITEM / SOLID+GROUND) 
+[14:05:58] [Craft Scheduler Thread - 2 - NoCheatPlus/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[14:05:58] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[14:05:58] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[14:05:58] [Server thread/INFO]: Done (32.156s)! For help, type "help"
+[14:06:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
+status<--[HERE]
+[14:06:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/status<--[HERE]
+[14:08:48] [Server thread/INFO]: Stopping the server
+[14:08:49] [Server thread/INFO]: Stopping server
+[14:08:49] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.158
+[14:08:49] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[14:08:49] [Server thread/INFO]: [LuckPerms] Closing storage...
+[14:08:49] [Server thread/INFO]: [LuckPerms] Goodbye!
+[14:08:49] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.16.0-RC-sMD5NET-b1134
+[14:08:49] [Server thread/INFO]: [NoCheatPlus] Removed hook: AllViolations(NCP) [1.0].
+[14:08:49] [Server thread/INFO]: [NoCheatPlus] Version 3.16.0-RC-sMD5NET-b1134 is disabled.
+[14:08:49] [Server thread/INFO]: [ServerSecurity] Disabling ServerSecurity v2.1.1
