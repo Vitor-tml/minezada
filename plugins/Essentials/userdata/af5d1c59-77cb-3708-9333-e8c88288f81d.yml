@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.161.195.120
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745084286042
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745084827656
+  login: 1745084275473
+money: '0'
+last-account-name: Capipipipi
+lastlocation:
+  world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+  world-name: world
+  x: 820.9344319719904
+  y: 72.0
+  z: 186.14996948302405
+  yaw: 171.06346130371094
+  pitch: 21.837207794189453
+logoutlocation:
+  world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+  world-name: world
+  x: 810.6502465170169
+  y: 80.0
+  z: 183.00318070515968
+  yaw: 0.0
+  pitch: 0.0
