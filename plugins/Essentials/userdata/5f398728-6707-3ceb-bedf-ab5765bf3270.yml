@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.53.114.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745196350217
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745201520681
+  login: 1745201411324
+money: '0'
+last-account-name: kamilol2
+lastlocation:
+  world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+  world-name: world
+  x: -866.2902260719319
+  y: -21.0
+  z: -3343.300000011921
+  yaw: 164.5671844482422
+  pitch: 41.757041931152344
+logoutlocation:
+  world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+  world-name: world
+  x: -844.6929642534349
+  y: 111.0
+  z: -3393.357082973806
+  yaw: -33.75014877319336
+  pitch: -29.549991607666016
+homes:
+  home:
+    world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+    world-name: world
+    x: 747.3853432942379
+    y: 4.0
+    z: 233.97344086281677
+    yaw: -172.28436279296875
+    pitch: 7.501699924468994
+  montanha:
+    world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+    world-name: world
+    x: -545.0826479858282
+    y: 135.0
+    z: -3346.3114311816494
+    yaw: 170.0957794189453
+    pitch: 5.4144287109375
+  this:
+    world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+    world-name: world
+    x: -814.6943439649251
+    y: 122.0
+    z: -3370.1847103661385
+    yaw: 176.495849609375
+    pitch: 61.709632873535156

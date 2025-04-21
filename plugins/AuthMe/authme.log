@@ -34,3 +34,49 @@
 [04-20 00:51:47]: [FINE] Capipipipi logged in 177.161.195.120
 [04-20 01:11:05]: [FINE] Grimmmmmmmmm logged in 189.31.237.192
 [04-20 03:24:36]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[04-20 03:25:55]: [INFO] SQLite Setup finished
+[04-20 03:25:55]: [INFO] Hooked into LuckPerms!
+[04-20 03:25:55]: [INFO] Hooked successfully into Essentials
+[04-20 03:25:55]: [INFO] Essentials spawn file not found: '/home/capivara/minezada/plugins/Essentials/spawn.yml'
+[04-20 03:25:55]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04-20 03:25:55]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[04-20 03:25:55]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[04-20 03:25:55]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[04-20 03:25:55]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[04-20 03:25:55]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (Arquivo ou diretório inexistente)
+[04-20 03:25:55]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (Arquivo ou diretório inexistente)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at AuthMe-5.6.0.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at AuthMe-5.6.0.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[04-20 03:26:20]: [FINE] Capipipipi used the wrong password
+[04-20 03:26:30]: [FINE] Capipipipi logged in 177.161.195.120
+[04-20 03:28:41]: [FINE] Grimmmmmmmmm logged in 189.31.237.192
+[04-20 13:33:04]: [FINE] washinwu registered 191.177.182.181
+[04-20 13:33:04]: [FINE] washinwu logged in 191.177.182.181
+[04-20 13:55:45]: [FINE] kamilol2 registered 187.53.114.71
+[04-20 13:55:45]: [FINE] kamilol2 logged in 187.53.114.71
+[04-20 13:58:31]: [FINE] kamilol2 logged in 187.53.114.71
+[04-20 14:51:59]: [FINE] Capipipipi logged in 177.161.195.120
+[04-20 18:32:49]: [FINE] Capipipipi logged in 177.161.195.120
+[04-20 19:56:50]: [FINE] Grimmmmmmmmm logged in 189.31.237.192
+[04-20 21:04:43]: [FINE] washinwu logged in 191.177.182.181
+[04-20 21:07:34]: [FINE] kamilol2 logged in 187.53.114.71
+[04-20 21:43:49]: [FINE] Capipipipi logged in 177.161.195.120
+[04-20 21:44:05]: [FINE] Grimmmmmmmmm logged in 189.31.237.192
+[04-20 22:20:42]: [FINE] V0oid_ registered 189.11.48.149
+[04-20 22:20:42]: [FINE] V0oid_ logged in 189.11.48.149
+[04-20 23:02:25]: [FINE] kamilol2 logged in 187.53.114.71
+[04-20 23:10:19]: [FINE] kamilol2 logged in 187.53.114.71
+[04-20 23:39:00]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!

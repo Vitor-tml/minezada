@@ -11,28 +11,45 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1745084540588
+  lastteleport: 1745200292283
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1745084827665
-  login: 1745084498795
+  logout: 1745201375178
+  login: 1745193874874
 money: '0'
 last-account-name: washinwu
 lastlocation:
-  world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
-  world-name: world
-  x: 830.5288593052666
-  y: 81.0
-  z: 189.41355175042472
-  yaw: 115.30828857421875
-  pitch: 36.29010772705078
+  world: a1ec48da-ed0b-4b8e-8548-43d288cecf75
+  world-name: world_nether
+  x: 116.30000001192093
+  y: 77.0
+  z: -40.14058049389079
+  yaw: 169.54127502441406
+  pitch: 21.02821159362793
 logoutlocation:
   world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
   world-name: world
-  x: 853.6999999880791
-  y: 71.0
-  z: 186.30000001192093
-  yaw: 65.26651000976562
-  pitch: -8.358707427978516
+  x: 747.4650417804814
+  y: 4.0625
+  z: 234.73958712712925
+  yaw: 158.1021728515625
+  pitch: 9.028582572937012
+homes:
+  home:
+    world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+    world-name: world
+    x: 742.7963247699556
+    y: 4.0
+    z: 226.20989348079584
+    yaw: -101.23440551757812
+    pitch: 6.210026264190674
+  montanha:
+    world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+    world-name: world
+    x: -544.4705434982329
+    y: 135.0
+    z: -3342.637612170102
+    yaw: -107.87490844726562
+    pitch: 25.750640869140625
