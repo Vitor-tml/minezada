@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1745201520681
-  login: 1745201411324
+  logout: 1745294071405
+  login: 1745285217447
 money: '0'
 last-account-name: kamilol2
 lastlocation:
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
   world-name: world
-  x: -844.6929642534349
-  y: 111.0
-  z: -3393.357082973806
-  yaw: -33.75014877319336
-  pitch: -29.549991607666016
+  x: -853.1923397958498
+  y: 113.0
+  z: -3390.3580189714153
+  yaw: -152.693359375
+  pitch: 7.050052642822266
 homes:
   home:
     world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.43.101.186
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745293132238
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745293652454
+  login: 1745284401947
+money: '0'
+last-account-name: camioque
+lastlocation:
+  world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+  world-name: world
+  x: -853.3711319545964
+  y: 112.0
+  z: -3392.682126759113
+  yaw: -81.80355072021484
+  pitch: 5.9726762771606445
+homes:
+  home:
+    world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+    world-name: world
+    x: 758.9435690475301
+    y: 17.0
+    z: 277.87267099954596
+    yaw: 113.68017578125
+    pitch: 34.25242233276367
+logoutlocation:
+  world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+  world-name: world
+  x: 796.6764314197549
+  y: 6.0
+  z: 211.22351553538633
+  yaw: -16.894287109375
+  pitch: 15.192764282226562

@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1745199159749
+  lastteleport: 1745294135316
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1745199178636
-  login: 1745196220174
+  logout: 1745294925450
+  login: 1745281775462
 money: '0'
 last-account-name: Capipipipi
 lastlocation:
-  world: a1ec48da-ed0b-4b8e-8548-43d288cecf75
-  world-name: world_nether
-  x: 459.26326770130623
-  y: 61.0
-  z: 188.585502137686
-  yaw: -84.08663940429688
-  pitch: 6.2683820724487305
+  world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+  world-name: world
+  x: 856.6958172146157
+  y: 72.0
+  z: 180.1826179912758
+  yaw: 3.4976806640625
+  pitch: 38.58150863647461
 logoutlocation:
   world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
   world-name: world
-  x: 749.4769680398344
+  x: 749.4961214729227
   y: 4.0
-  z: 231.43160728152253
-  yaw: 144.34996032714844
-  pitch: 13.528688430786133
+  z: 231.4326069568367
+  yaw: 154.052490234375
+  pitch: 7.512196063995361
 homes:
   home:
     world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
@@ -61,3 +61,11 @@ homes:
     z: 188.4263581364265
     yaw: 2.8649630546569824
     pitch: -0.47749385237693787
+  praia:
+    world: 9bcf0f3f-c170-4700-bc04-ad3c565330dd
+    world-name: world
+    x: 215.43069208328012
+    y: 63.0
+    z: 17.017836579379562
+    yaw: -170.6367645263672
+    pitch: 9.676854133605957
