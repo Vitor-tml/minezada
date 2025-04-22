@@ -1,618 +1,560 @@
-[00:00:45] [Server thread/INFO]: Grimmmmmmmmm issued server command: /home
-[00:02:51] [Server thread/INFO]: washinwu issued server command: /sethome mina
-[00:04:17] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp camioque
-[00:04:17] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! 27.214247691087053,14.0,55.87310244455199
-[00:05:28] [Server thread/WARN]: Grimmmmmmmmm moved wrongly!
-[00:05:32] [Server thread/WARN]: Grimmmmmmmmm moved wrongly!
-[00:05:52] [Server thread/INFO]: Grimmmmmmmmm suffocated in a wall
-[00:05:58] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp washinwu
-[00:06:10] [Server thread/INFO]: Capipipipi has made the advancement [Hot Stuff]
-[00:06:13] [Server thread/INFO]: Capipipipi issued server command: /home
-[00:06:17] [Server thread/INFO]: Capipipipi issued server command: /home home
-[00:06:25] [Server thread/INFO]: washinwu issued server command: /home home
-[00:06:38] [Server thread/INFO]: Villager Villager['Villager'/15667, uuid='9d4d0aaf-109b-4e5e-b689-19e9e3570159', l='ServerLevel[world]', x=795.68, y=7.05, z=209.64, cpos=[49, 13], tl=157224, v=true] died, message: 'Villager tried to swim in lava'
-[00:06:40] [Server thread/INFO]: Capipipipi burned to death
-[00:06:44] [Server thread/INFO]: Capipipipi issued server command: /home home
-[00:06:44] [Server thread/WARN]: Capipipipi moved too quickly! -71.50818563069242,-68.0,36.21092306053683
-[00:06:44] [Server thread/WARN]: Capipipipi moved too quickly! -71.50818563069242,-68.0,36.21092306053683
-[00:06:44] [Server thread/WARN]: Capipipipi moved too quickly! -71.50818563069242,-68.0,36.21092306053683
-[00:07:34] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp Capipipipi
-[00:07:38] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp washinwu
-[00:07:38] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! -34.49523724155199,0.0,3.624721590544567
-[00:08:26] [Server thread/INFO]: Capipipipi issued server command: /home home
-[00:08:26] [Server thread/WARN]: Capipipipi moved too quickly! -21.100652578300128,2.0,8.137496372404684
-[00:08:26] [Server thread/WARN]: Capipipipi moved too quickly! -21.100652578300128,2.0,8.137496372404684
-[00:08:57] [Server thread/INFO]: washinwu issued server command: /home montanha
-[00:09:20] [Async Chat Thread - #26/INFO]: [Not Secure] <kamilol2> nao tenho espaço tio
-[00:10:28] [Server thread/INFO]: washinwu issued server command: /home montanha
-[00:11:46] [Server thread/INFO]: Capipipipi issued server command: /tp camioque
-[00:11:46] [Server thread/WARN]: Capipipipi moved too quickly! 7.032065619996615,13.0,22.854404363547218
-[00:11:46] [Server thread/WARN]: Capipipipi moved too quickly! 7.032065619996615,13.0,22.854404363547218
-[00:11:51] [Server thread/INFO]: camioque issued server command: /tp Capipipipi
-[00:11:51] [Server thread/WARN]: camioque moved too quickly! 0.350667561398609,10.9375,-0.3119344214391049
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[00:11:51] [Craft Scheduler Thread - 167 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[00:11:51] [Async Chat Thread - #28/INFO]: [Not Secure] <kamilol2> wash
-[00:11:53] [Async Chat Thread - #28/INFO]: [Not Secure] <washinwu> oi
-[00:11:53] [Craft Scheduler Thread - 167 - ServerSecurity/INFO]: [scanning] Done scanning 7 files and found 0 with malware or backdoor.
-[00:11:53] [Server thread/INFO]: camioque issued server command: /tp Capipipipi
-[00:11:58] [Server thread/INFO]: camioque issued server command: /tp Capipipipi
-[00:12:01] [Server thread/INFO]: camioque issued server command: /tp Capipipipi
-[00:12:15] [Async Chat Thread - #28/INFO]: [Not Secure] <kamilol2> quais saoas chances da gente faze a casa com bloco de ferro
-[00:12:20] [Async Chat Thread - #28/INFO]: [Not Secure] <washinwu> da p fazer
-[00:12:22] [Async Chat Thread - #28/INFO]: [Not Secure] <kamilol2> ou quartzo
-[00:12:27] [Async Chat Thread - #28/INFO]: [Not Secure] <washinwu> pode ser quartzo
-[00:12:30] [Async Chat Thread - #28/INFO]: [Not Secure] <washinwu> eu pego la dai
-[00:12:32] [Async Chat Thread - #28/INFO]: [Not Secure] <kamilol2> ok
-[00:12:36] [Server thread/INFO]: Capipipipi issued server command: /home home
-[00:12:36] [Server thread/WARN]: Capipipipi moved too quickly! -6.522361585305475,-13.0,-46.458730864277754
-[00:12:36] [Server thread/WARN]: Capipipipi moved too quickly! -6.522361585305475,-13.0,-46.458730864277754
-[00:12:36] [Async Chat Thread - #28/INFO]: [Not Secure] <kamilol2> essa musica torando
-[00:12:46] [Server thread/INFO]: camioque issued server command: /tp Capipipipi
-[00:12:46] [Server thread/WARN]: camioque moved too quickly! -7.199999988079071,-13.0,-24.287739529686462
-[00:13:10] [Server thread/INFO]: camioque issued server command: /home
-[00:14:01] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp camioque
-[00:14:01] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! -2.3857569295915937,11.0,37.164383972467334
-[00:14:30] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp camioque
-[00:15:07] [Server thread/INFO]: washinwu issued server command: /home mina
-[00:17:47] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp Capipipipi
-[00:17:47] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! 61.807745030504975,4.0,-14.424843304501252
-[00:17:52] [Server thread/INFO]: Grimmmmmmmmm issued server command: /home
-[00:18:14] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp kamilol2
-[00:18:14] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! -1551.6151771409725,98.0,-3706.5680932753157
-[00:18:38] [Async Chat Thread - #30/INFO]: [Not Secure] <kamilol2> nice
-[00:18:48] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp kamilol2
-[00:18:48] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! 46.80000001192093,18.0,-16.19999998807907
-[00:18:58] [Server thread/INFO]: Grimmmmmmmmm issued server command: /home
-[00:19:13] [Async Chat Thread - #30/INFO]: [Not Secure] <kamilol2> a ideia e ter 2 casa
-[00:19:14] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp kamilol2
-[00:19:19] [Async Chat Thread - #30/INFO]: [Not Secure] <Grimmmmmmmmm> devolve
-[00:19:22] [Async Chat Thread - #30/INFO]: [Not Secure] <kamilol2> ata pera
-[00:19:30] [Server thread/INFO]: Grimmmmmmmmm issued server command: /home
-[00:19:30] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! 1572.4245682763963,-109.0,3620.3691996758694
-[00:19:39] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp kamilol2
-[00:19:39] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! -1586.8446694996105,111.0,-3592.8718686472994
-[00:19:45] [Async Chat Thread - #30/INFO]: [Not Secure] <kamilol2> KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
-[00:19:52] [Async Chat Thread - #30/INFO]: [Not Secure] <kamilol2> eh pois e mano
-[00:20:04] [Async Chat Thread - #31/INFO]: [Not Secure] <kamilol2> cuidado ai
-[00:20:08] [Async Chat Thread - #31/INFO]: [Not Secure] <kamilol2> tem warden
-[00:20:12] [Server thread/INFO]: Grimmmmmmmmm hit the ground too hard
-[00:20:17] [Async Chat Thread - #31/INFO]: [Not Secure] <kamilol2> KKKKKKKKKKKKKKK
-[00:21:30] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp camioque
-[00:21:30] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! 13.575165235790678,-63.0,134.78832551680165
-[00:21:30] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! 13.575165235790678,-63.0,134.78832551680165
-[00:21:58] [Server thread/INFO]: washinwu issued server command: /sethome mina
-[00:22:02] [Server thread/INFO]: washinwu issued server command: /home montanha
-[00:22:11] [Async Chat Thread - #32/INFO]: [Not Secure] <kamilol2> wash ce transformo todos os packs de pedra
-[00:22:14] [Async Chat Thread - #32/INFO]: [Not Secure] <washinwu> nao
-[00:22:16] [Async Chat Thread - #32/INFO]: [Not Secure] <washinwu> ata
-[00:22:17] [Async Chat Thread - #32/INFO]: [Not Secure] <washinwu> KKKKK
-[00:22:17] [Async Chat Thread - #32/INFO]: [Not Secure] <kamilol2> nao to achando
-[00:22:20] [Async Chat Thread - #32/INFO]: [Not Secure] <washinwu> transformei
-[00:22:22] [Async Chat Thread - #32/INFO]: [Not Secure] <washinwu> vou pegar mais pedra
-[00:22:23] [Async Chat Thread - #32/INFO]: [Not Secure] <washinwu> da um 2
-[00:22:27] [Server thread/INFO]: Capipipipi issued server command: /tp camioque
-[00:22:27] [Server thread/WARN]: Capipipipi moved too quickly! 2.012499988079071,3.0,25.036319215657045
-[00:22:28] [Async Chat Thread - #32/INFO]: [Not Secure] <kamilol2> ta de boa
-[00:22:30] [Async Chat Thread - #32/INFO]: [Not Secure] <kamilol2> serve essa
-[00:22:32] [Async Chat Thread - #32/INFO]: [Not Secure] <washinwu> vo pega
-[00:22:33] [Server thread/INFO]: Capipipipi issued server command: /tp camioque
-[00:22:33] [Async Chat Thread - #32/INFO]: [Not Secure] <washinwu> pera ia
-[00:22:34] [Async Chat Thread - #32/INFO]: [Not Secure] <kamilol2> esqueci de fala q era normal
-[00:22:36] [Async Chat Thread - #32/INFO]: [Not Secure] <kamilol2> ta de boaaa
-[00:22:39] [Async Chat Thread - #32/INFO]: [Not Secure] <washinwu> tranquilo
-[00:22:41] [Async Chat Thread - #32/INFO]: [Not Secure] <washinwu> vo pegar mais quartzo
-[00:22:44] [Server thread/INFO]: Capipipipi issued server command: /tp camioque
-[00:22:44] [Async Chat Thread - #32/INFO]: [Not Secure] <washinwu> tem uns no bau ai
-[00:22:44] [Async Chat Thread - #32/INFO]: [Not Secure] <kamilol2> ok
-[00:22:58] [Server thread/INFO]: Capipipipi issued server command: /tp camioque
-[00:23:00] [Server thread/INFO]: washinwu issued server command: /home
-[00:23:02] [Server thread/INFO]: washinwu issued server command: /home mina
-[00:23:13] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp camioque
-[00:23:13] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! 18.5222974606055,12.0,21.887251659773312
-[00:23:16] [Async Chat Thread - #32/INFO]: [Not Secure] <Grimmmmmmmmm> sda
-[00:23:17] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp Capipipipi
-[00:25:39] [Server thread/INFO]: washinwu issued server command: /sethome mina
-[00:26:12] [Server thread/INFO]: Grimmmmmmmmm issued server command: /home
-[00:26:12] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! -72.22779228320496,-3.0,18.171028049066194
-[00:26:13] [Server thread/INFO]: Capipipipi issued server command: /home home
-[00:26:16] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp Capipipipi
-[00:26:16] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! 29.306049403487577,1.0,0.42605457165927874
-[00:26:21] [Server thread/INFO]: Grimmmmmmmmm issued server command: /home
-[00:26:28] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp camioque
-[00:26:28] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! 33.98349538783964,3.0,18.60095843094072
-[00:26:31] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp Capipipipi
-[00:26:56] [Server thread/INFO]: Grimmmmmmmmm has made the advancement [What a Deal!]
-[00:29:20] [Server thread/INFO]: washinwu issued server command: /sethome mina
-[00:29:23] [Server thread/INFO]: washinwu issued server command: /home montanha
-[00:29:25] [Server thread/INFO]: Capipipipi issued server command: /tp camioque
-[00:29:30] [Server thread/INFO]: camioque has made the advancement [Cover Me with Diamonds]
-[00:29:38] [Async Chat Thread - #34/INFO]: [Not Secure] <Capipipipi> alo
-[00:29:40] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp camioque
-[00:29:40] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! 34.099818121073326,3.0,16.80000001192093
-[00:29:40] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! 34.099818121073326,3.0,16.80000001192093
-[00:29:42] [Async Chat Thread - #34/INFO]: [Not Secure] <Capipipipi> kami e washo
-[00:29:47] [Async Chat Thread - #34/INFO]: [Not Secure] <Capipipipi> querem armadura?
-[00:29:50] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp kamilol2
-[00:29:50] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! -1607.5249780496788,109.0,-3627.2459498252574
-[00:29:51] [Async Chat Thread - #34/INFO]: [Not Secure] <washinwu> oq
-[00:29:56] [Async Chat Thread - #34/INFO]: [Not Secure] <washinwu> tamo full dima ja
-[00:29:56] [Async Chat Thread - #34/INFO]: [Not Secure] <Capipipipi> de dima
-[00:30:00] [Async Chat Thread - #34/INFO]: [Not Secure] <Capipipipi> vcs dois?
-[00:30:02] [Async Chat Thread - #34/INFO]: [Not Secure] <washinwu> aham
-[00:30:05] [Async Chat Thread - #34/INFO]: [Not Secure] <Capipipipi> tem villager que vende aqui
-[00:30:07] [Async Chat Thread - #34/INFO]: [Not Secure] <washinwu> se e loco
-[00:30:11] [Server thread/INFO]: washinwu issued server command: /tp Capipipipi
-[00:30:12] [Async Chat Thread - #34/INFO]: [Not Secure] <Capipipipi> só buscar quando precisar
-[00:30:58] [Server thread/INFO]: washinwu issued server command: /home home
-[00:31:16] [Server thread/INFO]: Capipipipi issued server command: /spec
-[00:31:24] [Server thread/INFO]: Capipipipi issued server command: /sudo
-[00:31:27] [Server thread/INFO]: Capipipipi issued server command: /survival
-[00:35:50] [Server thread/INFO]: Capipipipi issued server command: /tp camioque
-[00:35:50] [Server thread/WARN]: Capipipipi moved too quickly! -21.857791907382193,-1.0,-16.884490002790017
-[00:35:50] [Server thread/WARN]: Capipipipi moved too quickly! -21.857791907382193,-1.0,-16.884490002790017
-[00:37:35] [Server thread/INFO]: washinwu issued server command: /tp kamilol2
-[00:37:56] [Server thread/INFO]: Capipipipi issued server command: /home home
-[00:37:57] [Async Chat Thread - #36/INFO]: [Not Secure] <washinwu> madeira branca?
-[00:38:02] [Async Chat Thread - #36/INFO]: [Not Secure] <kamilol2> yes
-[00:38:11] [Async Chat Thread - #36/INFO]: [Not Secure] <kamilol2> tem mt ferro aq
-[00:38:33] [Async Chat Thread - #36/INFO]: [Not Secure] <kamilol2> tepa aq
-[00:38:37] [Server thread/INFO]: camioque issued server command: /tp kamilol2
-[00:38:52] [Server thread/INFO]: camioque issued server command: /home
-[00:39:33] [Async Chat Thread - #38/INFO]: [Not Secure] <kamilol2> wash seguinte vc tem um papel
-[00:39:42] [Async Chat Thread - #38/INFO]: [Not Secure] <washinwu> hm
-[00:39:56] [Async Chat Thread - #38/INFO]: [Not Secure] <kamilol2> preciso abrir mais esse burac
-[00:39:59] [Async Chat Thread - #38/INFO]: [Not Secure] <kamilol2> KKKKKKK
-[00:40:13] [Server thread/INFO]: washinwu issued server command: /tp kamilol2
-[00:40:29] [Async Chat Thread - #38/INFO]: [Not Secure] <washinwu> abrir como
-[00:40:32] [Async Chat Thread - #38/INFO]: [Not Secure] <washinwu> lateral?
-[00:40:38] [Async Chat Thread - #38/INFO]: [Not Secure] <kamilol2> ta vendo ali q a casa vai bate na parede
-[00:40:49] [Async Chat Thread - #38/INFO]: [Not Secure] <washinwu> eh p
-[00:40:52] [Async Chat Thread - #38/INFO]: [Not Secure] <washinwu> tirar a parede
-[00:40:54] [Async Chat Thread - #38/INFO]: [Not Secure] <washinwu> q bate?
-[00:41:30] [Server thread/INFO]: Capipipipi issued server command: /tp camioque
-[00:41:30] [Server thread/WARN]: Capipipipi moved too quickly! -14.682699886632463,13.0,20.959806860335107
-[00:41:30] [Server thread/WARN]: Capipipipi moved too quickly! -14.682699886632463,13.0,20.959806860335107
-[00:41:35] [Server thread/INFO]: washinwu issued server command: /tp kamilol2
-[00:41:35] [Async Chat Thread - #38/INFO]: [Not Secure] <kamilol2> problema é q vai ter q refazer as arovres ali em cima
-[00:41:37] [Async Chat Thread - #38/INFO]: [Not Secure] <kamilol2> boa sorte
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[00:41:51] [Craft Scheduler Thread - 174 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[00:41:53] [Craft Scheduler Thread - 174 - ServerSecurity/INFO]: [scanning] Done scanning 7 files and found 0 with malware or backdoor.
-[00:42:03] [Async Chat Thread - #38/INFO]: [Not Secure] <kamilol2> na real
-[00:42:05] [Async Chat Thread - #38/INFO]: [Not Secure] <kamilol2> vou puxar td pra ca
-[00:42:24] [Async Chat Thread - #38/INFO]: [Not Secure] <washinwu> ent cancela?
-[00:42:27] [Async Chat Thread - #38/INFO]: [Not Secure] <kamilol2> oq ce acha
-[00:42:30] [Async Chat Thread - #38/INFO]: [Not Secure] <kamilol2> a acsa e sua tbm
-[00:42:50] [Async Chat Thread - #38/INFO]: [Not Secure] <washinwu> da p puxar
-[00:42:53] [Async Chat Thread - #38/INFO]: [Not Secure] <kamilol2> ok
-[00:46:15] [Async Chat Thread - #40/INFO]: [Not Secure] <washinwu> pera aiu
-[00:46:21] [Server thread/INFO]: washinwu issued server command: /home mina
-[00:46:54] [Server thread/INFO]: washinwu issued server command: /home home
-[00:46:58] [Server thread/INFO]: Grimmmmmmmmm issued server command: /tp Capipipipi
-[00:46:58] [Server thread/WARN]: Grimmmmmmmmm moved too quickly! 4070.2635257691504,-52.61558830265149,5258.4270821730515
-[00:46:59] [Async Chat Thread - #40/INFO]: [Not Secure] <kamilol2> esse espaço ta bao p vc
-[00:47:26] [Server thread/INFO]: washinwu issued server command: /home montanha
-[00:47:32] [Server thread/INFO]: camioque lost connection: Disconnected
-[00:47:32] [Server thread/INFO]: camioque left the game
-[00:47:33] [Async Chat Thread - #40/INFO]: [Not Secure] <washinwu> ta sim
-[00:48:12] [Async Chat Thread - #40/INFO]: [Not Secure] <kamilol2> ta pegando a ideia da casa agr?
-[00:48:36] [Server thread/INFO]: washinwu issued server command: /home home
-[00:48:40] [Async Chat Thread - #40/INFO]: [Not Secure] <washinwu> pegando visao
-[00:48:58] [Server thread/INFO]: washinwu issued server command: /home mina
-[00:49:07] [Async Chat Thread - #40/INFO]: [Not Secure] <kamilol2> faz vrido washas
-[00:49:09] [Server thread/INFO]: washinwu issued server command: /home
-[00:49:11] [Server thread/INFO]: washinwu issued server command: /home mina
-[00:49:14] [Server thread/INFO]: washinwu issued server command: /home home
-[00:49:59] [Server thread/INFO]: washinwu issued server command: /home montanha
-[00:50:19] [Server thread/INFO]: Capipipipi issued server command: /kill Capipipipi
-[00:50:19] [Server thread/INFO]: Capipipipi died
-[00:50:30] [Async Chat Thread - #42/INFO]: [Not Secure] <kamilol2> ow
-[00:50:32] [Server thread/INFO]: Grimmmmmmmmm lost connection: Disconnected
-[00:50:32] [Server thread/INFO]: Grimmmmmmmmm left the game
-[00:51:38] [Server thread/INFO]: Capipipipi issued server command: /home
-[00:51:42] [Server thread/INFO]: Capipipipi issued server command: /home home
-[00:51:42] [Server thread/WARN]: Capipipipi moved too quickly! -56.524572789370495,-68.0,42.19999998807907
-[00:53:19] [Server thread/INFO]: Capipipipi issued server command: /kill Capipipipi
-[00:53:19] [Server thread/INFO]: Capipipipi died
-[00:53:52] [Async Chat Thread - #44/INFO]: [Not Secure] <washinwu> q passa
-[00:53:53] [Async Chat Thread - #44/INFO]: [Not Secure] <washinwu> vidro?
-[00:53:59] [Async Chat Thread - #44/INFO]: [Not Secure] <kamilol2> aham
-[00:54:01] [Async Chat Thread - #44/INFO]: [Not Secure] <kamilol2> mas vo sair aq
-[00:54:03] [Async Chat Thread - #44/INFO]: [Not Secure] <kamilol2> mó sono
-[00:54:09] [Async Chat Thread - #44/INFO]: [Not Secure] <washinwu> bele
-[00:54:24] [Async Chat Thread - #44/INFO]: [Not Secure] <kamilol2> boa noite ai pa vcs, da tchau pa pessoa na call por mi
-[00:54:31] [Server thread/INFO]: kamilol2 lost connection: Disconnected
-[00:54:31] [Server thread/INFO]: kamilol2 left the game
-[00:55:03] [Server thread/INFO]: washinwu issued server command: /home home
-[00:55:16] [Server thread/INFO]: washinwu issued server command: /home home
-[00:55:35] [Server thread/INFO]: Capipipipi issued server command: /home home
-[00:57:40] [Server thread/INFO]: washinwu issued server command: /home home
-[01:06:41] [Server thread/INFO]: washinwu lost connection: Disconnected
-[01:06:41] [Server thread/INFO]: washinwu left the game
-[01:08:45] [Server thread/INFO]: Capipipipi lost connection: Disconnected
-[01:08:45] [Server thread/INFO]: Capipipipi left the game
-[01:08:55] [Server thread/INFO]: Stopping the server
-[01:08:55] [Server thread/INFO]: Stopping server
-[01:08:55] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.0
-[01:08:55] [Server thread/INFO]: [FastChunkPregenerator] Disabling FastChunkPregenerator v2.0.9-SNAPSHOT
-[01:08:55] [Server thread/INFO]: [AntiCreeper] Disabling AntiCreeper v3.3
-[01:08:55] [Server thread/INFO]: [AntiCreeper] Disabled!
-[01:08:55] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-bCUSTOM
-[01:08:55] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
-[01:08:55] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-bCUSTOM disabled!
-[01:08:55] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.0
-[01:08:55] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0
-[01:08:55] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.158
-[01:08:55] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[01:08:55] [Server thread/INFO]: [LuckPerms] Closing storage...
-[01:08:55] [Server thread/INFO]: [LuckPerms] Goodbye!
-[01:08:55] [Server thread/INFO]: [ServerSecurity] Disabling ServerSecurity v2.1.1
+[01:10:38] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-124.04.1; Ubuntu null) on Linux 6.11.0-21-generic (amd64)
+[01:10:38] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-22-main@6c2b037 (2025-04-16T18:32:47Z) for Minecraft 1.21.5
+[01:10:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:10:39] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[01:10:39] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - AntiCreeper (3.3), AuthMe (5.6.0-bCUSTOM), Essentials (2.21.0), EssentialsChat (2.21.0), EssentialsSpawn (2.21.0), FastChunkPregenerator (2.0.9-SNAPSHOT), LuckPerms (5.4.158), ServerSecurity (2.1.1)
+[01:10:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:10:43] [ServerMain/INFO]: Loaded 1373 recipes
+[01:10:43] [ServerMain/INFO]: Loaded 1484 advancements
+[01:10:43] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[01:10:43] [Server thread/INFO]: Loading properties
+[01:10:43] [Server thread/INFO]: This server is running Paper version 1.21.5-22-main@6c2b037 (2025-04-16T18:32:47Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[01:10:43] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:10:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:10:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:10:44] [Server thread/INFO]: [MoonriseCommon] Paper is using 3 worker threads, 1 I/O threads
+[01:10:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[01:10:44] [Server thread/INFO]: Default game type: SURVIVAL
+[01:10:44] [Server thread/INFO]: Generating keypair
+[01:10:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:10:44] [Server thread/INFO]: Using epoll channel type
+[01:10:44] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:10:44] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[01:10:44] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[01:10:51] [Server thread/WARN]: Legacy plugin ServerSecurity v2.1.1 does not specify an api-version.
+[01:10:51] [Server thread/INFO]: [ServerSecurity] Loading server plugin ServerSecurity v2.1.1
+[01:10:51] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.158
+[01:10:51] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0
+[01:10:51] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0
+[01:10:51] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-bCUSTOM
+[01:10:51] [Server thread/INFO]: [AntiCreeper] Loading server plugin AntiCreeper v3.3
+[01:10:51] [Server thread/INFO]: [FastChunkPregenerator] Loading server plugin FastChunkPregenerator v2.0.9-SNAPSHOT
+[01:10:51] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0
+[01:10:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:10:51] [Server thread/INFO]: [ServerSecurity] Enabling ServerSecurity v2.1.1*
+[01:10:51] [Server thread/ERROR]: [ServerSecurity] §cThere encountered an error when activating the network interceptor.
+[01:10:51] [Server thread/INFO]: [ServerSecurity] ServerSecurity is now loaded in! The plugin is made by Alek05. Use /am.
+[01:10:51] [Server thread/WARN]: java.util.zip.ZipException: zip END header not found
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin.onEnable(ServerSecurityPlugin.java:96)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:280)
+[01:10:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[01:10:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:644)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:599)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:236)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1161)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:10:51] [Server thread/WARN]: java.util.zip.ZipException: zip END header not found
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin.onEnable(ServerSecurityPlugin.java:96)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:280)
+[01:10:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[01:10:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:644)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:599)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:236)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1161)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:10:51] [Server thread/WARN]: java.util.zip.ZipException: zip END header not found
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin.onEnable(ServerSecurityPlugin.java:96)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:280)
+[01:10:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[01:10:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:644)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:599)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:236)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1161)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:10:51] [Server thread/WARN]: java.util.zip.ZipException: zip END header not found
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin.onEnable(ServerSecurityPlugin.java:96)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:280)
+[01:10:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[01:10:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:644)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:599)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:236)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1161)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:10:51] [Server thread/WARN]: java.util.zip.ZipException: zip END header not found
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin.onEnable(ServerSecurityPlugin.java:96)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:280)
+[01:10:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[01:10:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:644)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:599)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:236)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1161)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:10:51] [Server thread/WARN]: java.util.zip.ZipException: zip END header not found
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
+[01:10:51] [Server thread/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin.onEnable(ServerSecurityPlugin.java:96)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:280)
+[01:10:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[01:10:51] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:644)
+[01:10:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:599)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:236)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1161)
+[01:10:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[01:10:51] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:10:54] [Server thread/INFO]: [scanning] Done scanning 7 files and found 0 with malware or backdoor.
+[01:10:54] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.158
+[01:10:54] [Server thread/INFO]:         __    
+[01:10:54] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.158
+[01:10:54] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[01:10:54] [Server thread/INFO]: 
+[01:10:54] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[01:10:54] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[01:10:54] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[01:10:54] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[01:10:54] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 731ms)
+[01:10:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:10:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:10:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:10:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:10:54] [Server thread/INFO]: Preparing level "world"
+[01:10:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:10:55] [Server thread/INFO]: Preparing spawn area: 0%
+[01:10:55] [Server thread/INFO]: Preparing spawn area: 0%
+[01:10:55] [Server thread/INFO]: Time elapsed: 680 ms
+[01:10:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:10:55] [Server thread/INFO]: Preparing spawn area: 0%
+[01:10:56] [Server thread/INFO]: Time elapsed: 102 ms
+[01:10:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:10:56] [Server thread/INFO]: Preparing spawn area: 0%
+[01:10:56] [Server thread/INFO]: Time elapsed: 63 ms
+[01:10:56] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0
+[01:10:56] [Server thread/ERROR]: [Essentials] Você está executando uma versão de servidor não suportada!
+[01:10:56] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[01:10:56] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[01:10:56] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[01:10:56] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[01:10:56] [Server thread/INFO]: [Essentials] Using locale pt_BR
+[01:10:56] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[01:10:57] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[01:10:57] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[01:10:57] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[01:10:57] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[01:10:57] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0
+[01:10:57] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[01:10:57] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-bCUSTOM
+[01:10:57] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[01:10:57] [Server thread/INFO]: [AuthMe] Hooked into LuckPerms!
+[01:10:57] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[01:10:57] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/home/capivara/minezada/plugins/Essentials/spawn.yml'
+[01:10:57] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[01:10:57] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[01:10:57] [Server thread/INFO]: [AntiCreeper] Enabling AntiCreeper v3.3
+[01:10:57] [Server thread/INFO]: [AntiCreeper] Enabled!
+[01:10:57] [Server thread/INFO]: [FastChunkPregenerator] Enabling FastChunkPregenerator v2.0.9-SNAPSHOT
+[01:10:57] [Server thread/INFO]: [FastChunkPregenerator] >> Paper was found.
+[01:10:57] [Server thread/INFO]: [FastChunkPregenerator] >> Async chunk loading support is enabled.
+[01:10:57] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0
+[01:10:57] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[01:10:57] [Server thread/INFO]: [spark] Starting background profiler...
+[01:10:57] [Server thread/INFO]: Done preparing level "world" (2.925s)
+[01:10:57] [Server thread/INFO]: Running delayed init tasks
+[01:10:57] [Craft Scheduler Thread - 0 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[01:10:57] [Craft Scheduler Thread - 0 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[01:10:57] [Craft Scheduler Thread - 0 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[01:10:57] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Buscando informações da versão...
+[01:10:57] [Craft Scheduler Thread - 0 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (Arquivo ou diretório inexistente)
+[01:10:57] [Server thread/INFO]: Done (20.009s)! For help, type "help"
+[01:11:12] [User Authenticator #0/INFO]: UUID of player Capipipipi is af5d1c59-77cb-3708-9333-e8c88288f81d
+[01:11:13] [Server thread/INFO]: Capipipipi[/177.161.195.120:55545] logged in with entity id 122 at ([world]749.4961214729227, 4.0, 231.4326069568367)
+[01:11:13] [Server thread/INFO]: Bem-vindo ao servidor da Azure! Esperamos que você se divirta! O spawn deste mundo é nesta ilha, esperamos construir uma vila bem aqui. Então, sinta-se à vontade para construir sua casa! Mas lembre-se: o espaço da ilha é limitado, então não tente compensar as coisas construindo casas muito grandes! 😉
+[01:11:21] [Craft Scheduler Thread - 3 - AuthMe/INFO]: [AuthMe] Capipipipi logged in 177.161.195.120
+[01:11:54] [Server thread/INFO]: Capipipipi issued server command: /give Capipipipi rail 64
+[01:27:17] [Server thread/INFO]: Capipipipi issued server command: /home home
+[01:30:56] [Server thread/INFO]: Capipipipi issued server command: /home home
+[01:30:56] [Server thread/WARN]: Capipipipi moved too quickly! -37.89100883489402,-2.0,-36.94875399762657
+[01:30:56] [Server thread/WARN]: Capipipipi moved too quickly! -37.89100883489402,-2.0,-36.94875399762657
+[01:30:56] [Server thread/WARN]: Capipipipi moved too quickly! -37.89100883489402,-2.0,-36.94875399762657
+[01:30:56] [Server thread/WARN]: Capipipipi moved too quickly! -37.89100883489402,-2.0,-36.94875399762657
+[01:33:34] [Server thread/INFO]: Capipipipi issued server command: /home home
+[01:33:34] [Server thread/WARN]: Capipipipi moved too quickly! -36.423584631204676,-1.5625,-40.71233167525088
+[01:35:52] [Server thread/INFO]: Capipipipi issued server command: /spectate
+[01:36:01] [Server thread/INFO]: Capipipipi issued server command: /spectator
+[01:36:28] [Server thread/INFO]: Capipipipi issued server command: /survival
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: java.util.zip.ZipException: zip END header not found
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1649)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1657)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1495)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1458)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:724)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:251)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:180)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:316)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.jar.JarFile.<init>(JarFile.java:282)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.model.PluginProperties.<init>(PluginProperties.java:20)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.lambda$findAllJarsDir$1(JARFinder.java:29)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJarsDir(JARFinder.java:34)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.utils.JARFinder.findAllJars(JARFinder.java:18)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at ServerSecurity-2.1.1.jar//me.alek.serversecurity.ServerSecurityPlugin$1.run(ServerSecurityPlugin.java:81)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[01:40:57] [Craft Scheduler Thread - 14 - ServerSecurity/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:41:00] [Craft Scheduler Thread - 14 - ServerSecurity/INFO]: [scanning] Done scanning 7 files and found 0 with malware or backdoor.
+[01:48:25] [Server thread/INFO]: Capipipipi issued server command: /home home
+[01:57:19] [Server thread/INFO]: /176.65.149.246:53132 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[01:58:38] [Server thread/INFO]: Capipipipi lost connection: Disconnected
+[01:58:38] [Server thread/INFO]: Capipipipi left the game
+[02:02:06] [Server thread/INFO]: Stopping the server
+[02:02:06] [Server thread/INFO]: Stopping server
+[02:02:06] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.0
+[02:02:06] [Server thread/INFO]: [FastChunkPregenerator] Disabling FastChunkPregenerator v2.0.9-SNAPSHOT
+[02:02:06] [Server thread/INFO]: [AntiCreeper] Disabling AntiCreeper v3.3
+[02:02:06] [Server thread/INFO]: [AntiCreeper] Disabled!
+[02:02:06] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-bCUSTOM
+[02:02:06] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[02:02:06] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-bCUSTOM disabled!
+[02:02:06] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.0
+[02:02:06] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0
+[02:02:06] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.158
+[02:02:06] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[02:02:06] [Server thread/INFO]: [LuckPerms] Closing storage...
+[02:02:06] [Server thread/INFO]: [LuckPerms] Goodbye!
+[02:02:06] [Server thread/INFO]: [ServerSecurity] Disabling ServerSecurity v2.1.1
